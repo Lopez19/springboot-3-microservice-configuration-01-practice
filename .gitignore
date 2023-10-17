@@ -3,7 +3,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea
-booking.microservice.json
+booking-microservice.json
+product-microservice.json
 
 # User-specific stuff
 .idea/**/workspace.xml
